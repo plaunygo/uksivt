@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iOS Dark Palette -->
+    <color name="ios_background">#FF000000</color>
+    <color name="ios_surface">#FF1C1C1E</color>
+    <color name="ios_surface_elevated">#FF2C2C2E</color>
+    <color name="ios_divider">#FF38383A</color>
+    <color name="ios_primary">#FF0A84FF</color>
+    <color name="ios_accent">#FF30D158</color>
+    <color name="ios_warning">#FFFF9F0A</color>
+    <color name="ios_text_primary">#FFFFFFFF</color>
+    <color name="ios_text_secondary">#FF8E8E93</color>
+    <color name="ios_text_tertiary">#FF636366</color>
+</resources>

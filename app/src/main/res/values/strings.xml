@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scibidi</string>
+    <string name="tab_schedule">Расписание</string>
+    <string name="tab_bells">Звонки</string>
+    <string name="refresh">Обновить</string>
+    <string name="share">Поделиться</string>
+</resources>
